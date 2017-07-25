@@ -43,5 +43,6 @@ def drawtree(root):
     t.hideturtle()
     turtle.mainloop()
     
+# Add some message herees    
 if __name__ == '__main__':
-    drawtree(deserialize('[1,2]'))
+    drawtree(deserialize('[1,3]'))
